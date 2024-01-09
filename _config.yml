@@ -11,9 +11,9 @@ title                    : "Dr. Chen's Homepage"
 title_separator          : "-"
 name                     : &name "Yu-Chin (Allison) Chen, MD, PhD"
 description              : &description "personal description"
-url                      : https://allisonchen_mdphd.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://allison_chen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "allisonycc/allisonchen_mdphd.github.io"
+repository               : "allisonycc/allison_chen.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
